@@ -1,0 +1,7 @@
+D:\PRO2021\PalindromRek\PalindromRek\obj\Debug\PalindromRek.csproj.AssemblyReference.cache
+D:\PRO2021\PalindromRek\PalindromRek\obj\Debug\PalindromRek.csproj.CoreCompileInputs.cache
+D:\PRO2021\PalindromRek\PalindromRek\bin\Debug\PalindromRek.exe.config
+D:\PRO2021\PalindromRek\PalindromRek\bin\Debug\PalindromRek.exe
+D:\PRO2021\PalindromRek\PalindromRek\bin\Debug\PalindromRek.pdb
+D:\PRO2021\PalindromRek\PalindromRek\obj\Debug\PalindromRek.exe
+D:\PRO2021\PalindromRek\PalindromRek\obj\Debug\PalindromRek.pdb
