@@ -15,9 +15,10 @@ namespace RekurzijaVaja
             Console.WriteLine(Fib(7));
             Console.WriteLine(nal3(2));
             Console.WriteLine(nal3(5));
-            Console.WriteLine(nal4(2));
-            Console.WriteLine(nal4(5));
+            Console.WriteLine("xd"+nal4(2));
+            Console.WriteLine("xd"+nal4(5));
             Console.WriteLine(nal5(3));
+            Console.WriteLine(nal6(3));
             Console.ReadLine();
         }
         static int PotencaIterativno(int n)
@@ -63,6 +64,15 @@ namespace RekurzijaVaja
             if (n == 2)
                 return 2;
             return nal5(n - 1) * 2+ nal5(n-2);
+            
+        }
+        static int nal6(int n)
+        {
+            if (n == 1)
+                return 1;
+            if (n == 2)
+                return 4;
+            return nal6(n - 1) + 2;
         }
 
             

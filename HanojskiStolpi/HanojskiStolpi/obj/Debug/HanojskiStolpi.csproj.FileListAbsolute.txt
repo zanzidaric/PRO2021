@@ -1,0 +1,7 @@
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\bin\Debug\HanojskiStolpi.exe.config
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\bin\Debug\HanojskiStolpi.exe
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\bin\Debug\HanojskiStolpi.pdb
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\obj\Debug\HanojskiStolpi.csproj.AssemblyReference.cache
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\obj\Debug\HanojskiStolpi.csproj.CoreCompileInputs.cache
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\obj\Debug\HanojskiStolpi.exe
+D:\PRO2021\HanojskiStolpi\HanojskiStolpi\obj\Debug\HanojskiStolpi.pdb
