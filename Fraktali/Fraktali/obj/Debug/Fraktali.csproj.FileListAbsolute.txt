@@ -1,0 +1,10 @@
+D:\PRO2021\Fraktali\Fraktali\bin\Debug\Fraktali.exe.config
+D:\PRO2021\Fraktali\Fraktali\bin\Debug\Fraktali.exe
+D:\PRO2021\Fraktali\Fraktali\bin\Debug\Fraktali.pdb
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.csproj.AssemblyReference.cache
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.Form1.resources
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.Properties.Resources.resources
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.csproj.GenerateResource.cache
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.csproj.CoreCompileInputs.cache
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.exe
+D:\PRO2021\Fraktali\Fraktali\obj\Debug\Fraktali.pdb
