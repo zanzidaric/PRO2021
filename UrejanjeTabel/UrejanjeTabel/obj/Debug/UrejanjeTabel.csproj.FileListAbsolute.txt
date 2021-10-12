@@ -1,0 +1,7 @@
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\bin\Debug\UrejanjeTabel.exe.config
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\bin\Debug\UrejanjeTabel.exe
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\bin\Debug\UrejanjeTabel.pdb
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\obj\Debug\UrejanjeTabel.csproj.AssemblyReference.cache
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\obj\Debug\UrejanjeTabel.csproj.CoreCompileInputs.cache
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\obj\Debug\UrejanjeTabel.exe
+D:\PRO2021\UrejanjeTabel\UrejanjeTabel\obj\Debug\UrejanjeTabel.pdb
